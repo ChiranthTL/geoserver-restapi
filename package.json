@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +21,11 @@
     "sequelize-cli": "^6.4.1"
   },
   "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "geoserver-node-client": "^1.1.0",
+    "mysql2": "^2.3.3",
     "sequelize": "^6.21.1"
   }
 }
