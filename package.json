@@ -1,0 +1,25 @@
+{
+  "name": "geoserver-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiranthTL/geoserver-restapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiranthTL/geoserver-restapi/issues"
+  },
+  "homepage": "https://github.com/ChiranthTL/geoserver-restapi#readme",
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  },
+  "dependencies": {
+    "sequelize": "^6.21.1"
+  }
+}
